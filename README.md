@@ -3,13 +3,16 @@
  <h3 align="center">A Passionate Front-End Developer and a Programmer</h3>
  
 ![](https://visitcount.itsvg.in/api?id=code-with-alpha&icon=0&color=6)
+
+<p align="center">
  <a href="https://fb.com/coder.alpha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://instagram.com/codewith_alpha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krrishna" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krrish-kumar-233648300/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://youtube.com/@codewithalpha_dotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krrishna" height="30" width="40" /></a>
-  
- 
- 
- 
+</p>
+
+<br/>
+
 - I'm currently learning <strong>Typescript</strong> and <strong>React</strong>
 - How to reach me: codewithalpha@outlook.com
 - All of my projects are available at: https://www.github.com/code-with-alpha
