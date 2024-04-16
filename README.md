@@ -20,6 +20,7 @@
 
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɪɴɢ **ᴛʏᴘᴇꜱᴄʀɪᴘᴛ** ᴀɴᴅ **ʀᴇᴀᴄᴛ**
 - ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ: https://www.github.com/code-with-alpha
+- ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: contact@krrishkumar.me
 - ꜰᴜɴ ꜰᴀᴄᴛ: **ɪ ᴛʜɪɴᴋ ɪ ᴀᴍ ꜱᴇʀɪᴏᴜꜱ.**
 
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h2> <br>
