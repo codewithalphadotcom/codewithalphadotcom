@@ -11,9 +11,9 @@
 
 <p align="center">
  <a href="https://fb.com/coder.alpha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Krrishna" height="30" width="40" /></a>
-  <a href="https://instagram.com/codewith_alpha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krrishna" height="30" width="40" /></a>
+  <a href="https://instagram.com/alphaaa.aa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/krrish-kumar-233648300/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krrishna" height="30" width="40" /></a>
-  <a href="https://youtube.com/@codewithalpha_dotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krrishna" height="30" width="40" /></a>
+  <a href="https://youtube.com/@codewithalphadotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krrishna" height="30" width="40" /></a>
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=code-with-alpha&icon=0&color=6)
