@@ -14,6 +14,7 @@
   <a href="https://instagram.com/alphaaa.aa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/krrish-kumar-233648300/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://youtube.com/@codewithalphadotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krrishna" height="30" width="40" /></a>
+  <a href="https://youtube.com/@codewithalphadotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/buymeacoffee.svg" alt="Krrishna" height="30" width="40" /></a>
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=code-with-alpha&icon=0&color=6)
@@ -39,6 +40,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=code-with-alpha&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 <!-- ### 💰You can Support me here:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/i_am_alpha) -->
+<br>
+
+## You can support me via:
+<p><a href="https://www.buymeacoffee.com/i_am_alpha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="i_am_alpha" /></a></p>
+
+<!-- <a href="https://ko-fi.com/codewithalpha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codewithalpha" /></a> -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
