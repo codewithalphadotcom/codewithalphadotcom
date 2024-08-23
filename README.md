@@ -9,12 +9,23 @@
 </p>
  
 
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="center">
+<a href="https://twitter.com/notkrrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notkrrishna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krrishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krrishkumar" height="30" width="40" /></a>
+<a href="https://fb.com/coder.alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder.alpha" height="30" width="40" /></a>
+<a href="https://instagram.com/alphaaa.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphaaa.aa" height="30" width="40" /></a>
+<a href="https://hashnode.com/codewithalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codewithalpha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codewithalphadotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithalphadotcom" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/krrish_na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krrish_na" height="30" width="40" /></a>
+</p>
+
+<!-- <p align="center">
  <a href="https://fb.com/coder.alpha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://instagram.com/alphaaa.aa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/krrish-kumar-233648300/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krrishna" height="30" width="40" /></a>
   <a href="https://youtube.com/@codewithalphadotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krrishna" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ![](https://visitcount.itsvg.in/api?id=code-with-alpha&icon=0&color=6)
 
