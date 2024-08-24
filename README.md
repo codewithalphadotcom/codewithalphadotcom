@@ -16,7 +16,7 @@
 <a href="https://fb.com/coder.alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder.alpha" height="30" width="40" /></a>
 <a href="https://instagram.com/alphaaa.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphaaa.aa" height="30" width="40" /></a>
 <a href="https://hashnode.com/@codewithalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codewithalpha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithalphadotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithalphadotcom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithalphadotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithalphadotcom" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krrish_na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krrish_na" height="30" width="40" /></a>
 </p>
 
