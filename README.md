@@ -6,12 +6,14 @@
   ᴀᴄᴄᴇꜱꜱ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ & ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ɴᴇᴛᴡᴏʀᴋꜱ ʙᴇʟᴏᴡ <br/>
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/krrishkumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+<td><a href="https://instagram.com/codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+<td><a href="https://www.youtube.com/@codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a></td>
+<td><a href="https://www.leetcode.com/codewithalphadotcom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+<td><a href="https://linkedin.com/in/krrishkumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+</tr></table>
+</div>
 
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf04e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h2>
 
