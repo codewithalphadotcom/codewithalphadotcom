@@ -30,9 +30,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="32"/><img src="https://img.shields.io/badge/Node.js-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=express" width="32"/><img src="https://img.shields.io/badge/Express-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=nestjs" width="32"/><img src="https://img.shields.io/badge/NestJS-242938?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=fastify" width="32"/><img src="https://img.shields.io/badge/Fastify-242938?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fastify-242938?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=postgres" width="32"/><img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="32"/><img src="https://img.shields.io/badge/MongoDB-242938?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mongoose-242938?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=prisma" width="32"/><img src="https://img.shields.io/badge/Prisma-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="32"/><img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=docker" width="32"/><img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge"/>
