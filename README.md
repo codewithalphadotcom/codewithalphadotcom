@@ -19,16 +19,26 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts" width="32"/><img src="https://img.shields.io/badge/TypeScript-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python" width="32"/><img src="https://img.shields.io/badge/Python-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=django" width="32"/><img src="https://img.shields.io/badge/Django-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="32"/><img src="https://img.shields.io/badge/Flask-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=rust" width="32"/><img src="https://img.shields.io/badge/Rust-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="32"/><img src="https://img.shields.io/badge/Next.js_16-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=react" width="32"/><img src="https://img.shields.io/badge/React_19-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=astro" width="32"/><img src="https://img.shields.io/badge/Astro-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="32"/><img src="https://img.shields.io/badge/Tailwind_v4-242938?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=python" width="32"/><img src="https://img.shields.io/badge/Python-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="32"/><img src="https://img.shields.io/badge/Node.js-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=express" width="32"/><img src="https://img.shields.io/badge/Express-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="32"/><img src="https://img.shields.io/badge/NestJS-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=fastify" width="32"/><img src="https://img.shields.io/badge/Fastify-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=postgres" width="32"/><img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="32"/><img src="https://img.shields.io/badge/MongoDB-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=prisma" width="32"/><img src="https://img.shields.io/badge/Prisma-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="32"/><img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=docker" width="32"/><img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=k8s" width="32"/><img src="https://img.shields.io/badge/Kubernetes-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="32"/><img src="https://img.shields.io/badge/AWS-242938?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="32"/><img src="https://img.shields.io/badge/GCP-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=postman" width="32"/><img src="https://img.shields.io/badge/Postman-242938?style=for-the-badge"/>
   <img src="https://skillicons.dev/icons?i=git" width="32"/><img src="https://img.shields.io/badge/Git-242938?style=for-the-badge"/>
 </p>
